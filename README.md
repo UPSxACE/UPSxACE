@@ -3,6 +3,7 @@ I started learning how to code by myself on the internet in 2020, and now I am c
 Very dedicated to my goals, I try to give my best on anything I am doing, and practice coding as much as possible on my free time.<br>
 Currently trying to find my path in this wide world that is IT/Programming ^-^<br>
 
+<h2>About Me</h2>
 🔭 I’m currently studying Software Development at the University<br>
 💎 I have experience on HTML, CSS, Bootstrap, C# and Javascript<br>
 🌱 I’m currently learning SQL, and how to work with Wordpress<br>
@@ -10,6 +11,18 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 📫 You can always reach me on: <a href="www.linkedin.com/in/eduardobotelho1029/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/upsxace/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/eduardo1029x" target="_blank">Facebook</a>
 <br> 😄 You should also check my personal website: <a href="eduardobotelho.com" target="_blank">eduardobotelho.com</a><br>
 ✨ This profile is still under creation<br>
+
+<h2>My next 10 steps:</h2>
+-Uploading my personal website to git: 0% <br>
+-Creating tab "contact" to the personal website: 0% <br>
+-Implement html canvas code on the personal website: 0% <br>
+-Creating tab "projects" to the personal website: 0% <br>
+-Adding better css animations and transitions to the personal website: 0% <br>
+-Cleaning up the code from the personal website: 0% <br>
+-Fully adapting the personal website to WordPress features: 0% <br>
+-Making the personal website dynamic instead of static: 0% <br>
+-Uploading the files from the projects developed at the university: 5% <br>
+-Creating one more website: 0%  <br>
 
 <!--
 **UPSxACE/UPSxACE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
