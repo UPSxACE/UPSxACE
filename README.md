@@ -21,7 +21,7 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 -Cleaning up the code from the personal website: 0% <br>
 -Fully adapting the personal website to WordPress features: 0% <br>
 -Making the personal website dynamic instead of static: 0% <br>
--Uploading the files from the projects developed at the university: 5% <br>
+-Uploading the files from the projects developed at the university: 10% <br>
 -Creating one more website: 0%  <br>
 
 <!--
