@@ -13,15 +13,15 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 ✨ This profile is still under creation<br>
 
 <h2>My next 10 steps:</h2>
--Uploading my personal website to git: 0% <br>
+<del>-Uploading my personal website to git: 100% <br></del>
 -Creating tab "contact" to the personal website: 0% <br>
 -Implement html canvas code on the personal website: 0% <br>
 -Creating tab "projects" to the personal website: 0% <br>
 -Adding better css animations and transitions to the personal website: 0% <br>
 -Cleaning up the code from the personal website: 0% <br>
--Fully adapting the personal website to WordPress features: 0% <br>
+-Fully adapting the personal website to WordPress features: 20% <br>
 -Making the personal website dynamic instead of static: 0% <br>
--Uploading the files from the projects developed at the university: 10% <br>
+-Uploading the files from the projects developed at the university: 20% <br>
 -Creating one more website: 0%  <br>
 
 <!--
