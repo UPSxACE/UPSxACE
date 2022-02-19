@@ -9,7 +9,7 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 🌱 I’m currently learning SQL, and how to work with Wordpress<br>
 ⚡ I love anime and League of Legends <br>
 📫 You can always reach me on: <a href="www.linkedin.com/in/eduardobotelho1029/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/upsxace/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/eduardo1029x" target="_blank">Facebook</a>
-<br> 😄 You should also check my personal website: <a href="eduardobotelho.com" target="_blank">eduardobotelho.com</a><br>
+<br> 😄 You should also check my personal website: <a href="https://eduardobotelho.com" target="_blank">eduardobotelho.com</a><br>
 ✨ This profile is still under creation<br>
 
 <h2>My next 10 steps:</h2>
