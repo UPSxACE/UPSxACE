@@ -5,8 +5,8 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 
 <h2>About Me</h2>
 🔭 I’m currently studying Software Development at the University<br>
-💎 I have experience on HTML, CSS, Bootstrap, C# and Javascript<br>
-🌱 I’m currently learning SQL, and how to work with Wordpress<br>
+💎 I have experience on HTML, CSS, Javascript, Bootstrap, C# and SQL<br>
+🌱 I’m currently learning PHP, and how to work with Wordpress<br>
 ⚡ I love anime and League of Legends <br>
 📫 You can always reach me on: <a href="www.linkedin.com/in/eduardobotelho1029/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/upsxace/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/eduardo1029x" target="_blank">Facebook</a>
 <br> 😄 You should also check my personal website: <a href="https://eduardobotelho.com" target="_blank">eduardobotelho.com</a><br>
