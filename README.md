@@ -15,7 +15,7 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 <h2>My next 10 steps:</h2>
 <del>-Uploading my personal website to git: 100% <br></del>
 <del>-Adding tab "contact" to the personal website: 100% <br></del>
--Implement html canvas code on the personal website: 0% <br>
+-Implement HTML SVG code on the personal website: 20% <br>
 -Adding tab "projects" to the personal website: 0% <br>
 -Adding better css animations and transitions to the personal website: 0% <br>
 -Cleaning up the code from the personal website: 0% <br>
