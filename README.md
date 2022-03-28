@@ -16,12 +16,12 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 <del>-Uploading my personal website to git: 100% <br></del>
 <del>-Adding tab "contact" to the personal website: 100% <br></del>
 -Implement HTML SVG code on the personal website: 20% <br>
--Adding tab "projects" to the personal website: 0% <br>
+-Adding tab "projects" to the personal website: 50% <br>
 -Adding better css animations and transitions to the personal website: 0% <br>
 -Cleaning up the code from the personal website: 0% <br>
 -Fully adapting the personal website to WordPress features: 10% <br>
 -Making the personal website dynamic instead of static: 0% <br>
--Uploading the files from the projects developed at the university: 30% <br>
+-Uploading the files from the projects developed at the university: 35% <br>
 -Creating one more website: 0%  <br>
 
 <!--
