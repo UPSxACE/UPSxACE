@@ -9,7 +9,8 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 🔭 I’m currently studying Software Development at the University<br>
 💎 I have experience on React, Yii2, Bootstrap, HTML, CSS, Javascript, C# and SQL<br>
 🌱 I’m currently expanding my knowledge on React<br>
-⚡ I love anime and League of Legends <br>
+📚 I am familiar with Object-Oriented Programming and MVC frameworks.<br>
+⚡ I love anime and League of Legends<br>
 📫 You can always reach me on: <a href="www.linkedin.com/in/eduardobotelho1029/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/upsxace/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/eduardo1029x" target="_blank">Facebook</a>
 <br> 😄 You should also check my personal website: <a href="https://eduardobotelho.com" target="_blank">eduardobotelho.com</a><br>
 ✨ This profile is still under creation<br>
