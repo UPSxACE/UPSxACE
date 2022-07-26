@@ -7,7 +7,7 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 
 <h2>About Me</h2>
 🔭 I’m currently studying Software Development at the University<br>
-💎 I have experience on React, Yii2, Bootstrap, HTML, CSS, Javascript, C# and SQL<br>
+💎 I have some experience on React, Yii2, Bootstrap, HTML, CSS, Javascript, C#, PHP, Python and SQL<br>
 🌱 I’m currently expanding my knowledge on React<br>
 📚 I am familiar with Object-Oriented Programming and MVC frameworks.<br>
 ⚡ I love anime and League of Legends<br>
