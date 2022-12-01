@@ -7,8 +7,8 @@ Currently trying to find my path in this wide world that is IT/Programming ^-^<b
 
 <h2>About Me</h2>
 🔭 I’m currently studying Software Development at the University<br>
-💎 I have some experience on React, Yii2, Bootstrap, HTML, CSS, Javascript, C#, PHP, Python and SQL<br>
-🌱 I’m currently expanding my knowledge on React, and building a Discord.Js bot<br>
+💎 I have some experience on React, React Native, Yii2, Bootstrap, HTML, CSS, Javascript, C#, PHP, Python and SQL<br>
+🌱 I’m currently developing a React Native app for a university project<br>
 📚 I am familiar with Object-Oriented Programming and MVC frameworks.<br>
 ⚡ I love anime and League of Legends<br>
 📫 You can always reach me on: <a href="www.linkedin.com/in/eduardobotelho1029/?locale=en_US" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/upsxace/" target="_blank">Instagram</a>, <a href="https://www.facebook.com/eduardo1029x" target="_blank">Facebook</a>
